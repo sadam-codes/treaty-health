@@ -1,0 +1,124 @@
+/* First media query */
+.paragraph {
+  text-transform: uppercase;
+  font-size: x-large;
+}
+
+@media (max-width: 767px) {
+  .paragraph {
+    font-size: 20px;
+    width: 100%;
+  }
+}
+
+/* Second media query */
+.font-small {
+  font-size: 17px;
+}
+
+@media (max-width: 767px) {
+  .font-small {
+    font-size: 13px;
+  }
+}
+
+/* Third media query */
+.font-si {
+  font-size: 34px;
+}
+
+@media (max-width: 767px) {
+  .font-si {
+    font-size: 25px;
+  }
+}
+
+/* Fourth media query */
+.font {
+  font-size: 22px;
+}
+
+@media (max-width: 767px) {
+  .font {
+    font-size: 17px;
+  }
+}
+
+/* Fifth media query */
+.font1 {
+  font-size: 20px;
+}
+
+@media (max-width: 767px) {
+  .font1 {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 767px) {
+  .font-small {
+    padding-bottom: 30px;
+  }
+}
+
+.horixental {
+  padding: 80px;
+}
+@media (max-width: 767px) {
+  .horixental {
+    padding: 40px;
+  }
+}
+
+.sliceing-image {
+  width: 100%;
+}
+@media (max-width: 767px) {
+  .sliceing-image {
+    padding-bottom: 40px;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+/* media query for image centerlized */
+
+.sliceing-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.add {
+  padding: 100px 20px;
+}
+
+@media (max-width: 767px) {
+  .add {
+    padding: 50px 10px;
+  }
+}
+
+.inputs {
+  padding: 8px 10px;
+  margin-bottom: 1rem;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .inputs {
+    width: 100%;
+  }
+}
+
+.message {
+  padding: 10px;
+} 
+@media (max-width: 768px) {
+  .message {
+    width: 100%;
+  }
+}
+
+
+/* <!----------------------------------------!> */

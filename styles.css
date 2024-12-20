@@ -1,0 +1,182 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+.navbar {
+  padding: 15px 0px;
+  background-color: white;
+}
+.collapse {
+  justify-content: end;
+}
+.nav-item {
+  align-items: flex-end;
+  margin-right: 30px;
+
+  justify-content: end;
+}
+.navbar-nav {
+  align-items: center;
+  justify-self: center;
+  justify-content: flex-end;
+}
+.pic {
+  padding-right: 30px;
+}
+
+.rounded-pill {
+  padding: 8px 25px;
+}
+
+.image-brand {
+  height: 50px;
+}
+
+button {
+  border: 1px solid blue;
+  border-radius: 40%;
+  color: blue;
+  background-color: white;
+  text-align: center;
+  align-items: center;
+}
+
+.pef {
+  margin: 70px 30px;
+}
+.add {
+  padding: 100px 20px;
+}
+
+.background-image {
+  text-align: center;
+  color: white;
+  padding: 30px;
+  background-image: url(./assets//bg.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.upper-image {
+  width: 80%;
+  padding: 10px;
+}
+
+.feature-box {
+  text-align: center;
+}
+
+.horixental {
+  border-bottom: 3px solid whitesmoke;
+  padding: 80px;
+}
+
+.feature-box .photo {
+  width: 100px;
+  height: 100px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  margin: auto;
+  margin-bottom: 2rem;
+}
+
+.feature-box .photo img {
+  width: 100%;
+}
+
+.sliceing-image {
+  width: 100%;
+}
+
+h5 {
+  font-size: 20px;
+  color: dodgerblue;
+}
+
+.stay-touch {
+  color: dodgerblue;
+}
+
+.fo {
+  font-size: 20px;
+}
+
+.font {
+  font-size: 22px;
+}
+
+.borderbotom1 {
+  border-bottom: 3px solid whitesmoke;
+}
+
+.font-si {
+  font-size: 34px;
+}
+
+.link-image {
+  height: 45px;
+  left: 10px;
+  margin: 1px;
+  padding: 2px;
+}
+
+.message {
+  padding: 10px;
+}
+
+textarea {
+  resize: none;
+}
+
+.inputs {
+  padding: 8px 10px;
+  margin-bottom: 1rem;
+  width: 100%;
+}
+
+.last-button {
+  color: white;
+  background-color: blue;
+  border: 1px solid blue;
+  padding: 5px 20;
+  box-shadow: 2px 2px 1px 5px blue;
+  border-radius: 2px;
+  margin-right: 5px;
+  margin-top: 30px;
+  padding: 10px 17px;
+  font-size: 12px;
+}
+.small-image {
+  height: 1.5px;
+}
+
+.contact-image {
+  margin-bottom: 30px;
+}
+.contact-image img {
+  width: 30px;
+  height: 30px;
+  margin-right: 30px;
+}
+.footer {
+  display: block;
+  text-align: center;
+  align-items: center;
+  background-color: black;
+  color: white;
+  padding: 13px;
+}
+
+h4 {
+  font-size: 20px;
+}
+.html-forms {
+  box-shadow: 2px 2px 10px 5px rgb(236, 229, 229);
+  border: 1px solid rgb(211, 203, 203);
+  padding: 50px 40px 45px 40px;
+  margin-top: 100px;
+  margin: 20px 20px;
+  margin: 10px 10px;
+}
